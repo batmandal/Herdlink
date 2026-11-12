@@ -14,7 +14,6 @@
 | `index.html`        | Үндсэн dashboard: 3D/сүлжээ харагдац, хажуугийн самбар, тохиргоо, туршилтын цэс, module хуудас нээх логик |
 | `modules.js`        | 9 module-ийн дэлгэрэнгүй хуудас (`MODHTML` объект дотор HTML текст хэлбэрээр)                             |
 | `module-adapters.js` | Module хуудас бүрийн adapter (`MODADAPT`): module-ийн өөрийн header-ийг нууж, бүтэн өргөн ашиглуулж, dashboard-ын өдөр/шөнийн горимтой шууд синк хийнэ |
-| `index.backup.html` | Хуучин нөөц хувилбар                                                                                      |
 
 Ажиллуулах: VS Code дээр `index.html` → баруун товч → **Open with Live Server**. Фонт болон three.js CDN-ээс ачаалагддаг тул интернет хэрэгтэй.
 
