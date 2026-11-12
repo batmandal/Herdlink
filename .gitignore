@@ -1,0 +1,11 @@
+# Deploy гаралт
+dist/
+.wrangler/
+
+# Түр нөөц файлууд
+*.before-*
+*.backup.*
+
+# Систем
+.DS_Store
+node_modules/
